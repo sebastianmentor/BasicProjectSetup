@@ -1,4 +1,4 @@
 [wokwi]
 version=1
-firmware = "serialTest.hex"
-elf = "serialTest.elf"
+firmware = "MyProjectName.hex"
+elf = "MyProjectName.elf"

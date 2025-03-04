@@ -1,5 +1,5 @@
 # Projektets namn (utan filändelse) (ändra efter behov)
-PROJECT = MyProjektName
+PROJECT = MyProjectName
 
 # Mikrokontroller och klockhastighet (ändra efter behov)
 MCU = atmega328p
